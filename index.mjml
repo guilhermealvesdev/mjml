@@ -1,0 +1,34 @@
+﻿<mjml>
+  <mj-body width="636px" padding="0px">
+    <mj-section padding="0px" background-color="#292663">
+        <mj-column padding="0px">
+            <mj-text padding="30px 50px" font-size="14px" color="#FFFFFF" font-family="Calibri" align="right">Olá, Cliente</mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+        <mj-column width="636px">
+            <mj-image width="636px" src="https://image.info.veloe.com.br/lib/fe3f157175640478761171/m/1/d8551f15-806a-4ebe-bafb-16d096a4520f.png" padding="0"></mj-image>
+            <mj-image width="636px" src="https://image.info.veloe.com.br/lib/fe3f157175640478761171/m/1/16ed7be7-709c-4a4e-83bc-1b2ed863592e.png" padding="0"></mj-image>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section padding="50px 0">
+        <mj-column width="636px">
+            <mj-text padding="0 8%" font-size="18px" color="#292663" font-family="Calibri">Ainda espero você pra dar aquela voltinha pelas ruas e estradas da cidade, com uma musiquinha relax no rádio e passagem livre por pedágios e estacionamentos. Porque comigo é assim: me levou, passou.</mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#28c4d6" padding="0">
+      <mj-column padding="50px 20px 0 50px">
+        <mj-text font-size="18px" color="#292663" padding-bottom="30px" font-family="Calibri" padding="0"><strong>Vamos oficializar esse lance?</strong> Clica aqui embaixo e me leva pra casa.</mj-text>
+        <mj-button font-family="Calibri" align="left" padding-bottom="20px" padding="0" href="#" background-color="#292663" color="white" font-size="15px" font-weight="bold" border-radius="999px">
+          QUERO O MEU ADESIVO
+         </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image width="636px" src="https://image.info.veloe.com.br/lib/fe3f157175640478761171/m/1/87985a8d-6dac-4f08-a69a-112a86726b69.png" padding="0"></mj-image>
+        <mj-image width="636px" src="https://image.info.veloe.com.br/lib/fe3f157175640478761171/m/1/74596228-354a-4edc-af1d-2439a25f3b64.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
